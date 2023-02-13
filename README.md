@@ -7,3 +7,6 @@ selam
 merhaba!!
 
 yeni bir ekleme satırı :)
+
+
+pull deneme testt
